@@ -1,3 +1,6 @@
 [submodule "react-fullstack-api-be"]
 	path = react-fullstack-api-be
 	url = https://github.com/nabildzr/react-fullstack-api-be.git
+[submodule "react-fullstack-api-fe"]
+	path = react-fullstack-api-fe
+	url = https://github.com/nabildzr/react-fullstack-api-fe
